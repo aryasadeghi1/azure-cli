@@ -52,7 +52,7 @@ CLASSIFIERS = [
 
 DEPENDENCIES = [
     "antlr4-python3-runtime~=4.13.1",
-    'azure-appconfiguration~=1.7.2',
+    'azure-appconfiguration~=1.8.0',
     'azure-ai-projects~=1.0.0',
     'azure-batch==15.0.0b1',
     'azure-cli-core=={}'.format(VERSION),
@@ -81,7 +81,7 @@ DEPENDENCIES = [
     'azure-mgmt-containerregistry==15.1.0b1',
     'azure-mgmt-containerregistrytasks==1.0.0b1',
     'azure-mgmt-containerservice~=41.3.0',
-    'azure-mgmt-cosmosdb==9.9.0',
+    'azure-mgmt-cosmosdb==10.0.0',
     'azure-mgmt-datalake-store~=1.1.0b1',
     'azure-mgmt-datamigration~=10.0.0',
     'azure-mgmt-domainregistration==1.0.0b1',
